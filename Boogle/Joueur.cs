@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Boogle
 {
-    internal class Joueur
+    class Joueur
     {
         /// <summary>
         /// Attributs de la fonction Joueur
